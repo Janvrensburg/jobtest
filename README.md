@@ -5,7 +5,7 @@ Step 1
 Download and install e107 CMS system from http://sourceforge.net/projects/e107/files/e107/e107%20v2.0%20beta1/e107_2.0_full_beta1.tar.gz/download
 
 Step 2
-Copy the code to your plugin directory.
+Copy the test folder to your plugin directory.
 
 Step 3
 log into e107 admin area, and select plugin manager.
