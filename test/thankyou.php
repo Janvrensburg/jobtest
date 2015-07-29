@@ -20,7 +20,7 @@ require_once("functions.php");
 require_once("database.php");
 
 $text = "";
-if (isset($_POST['required_amount'])) {
+
 
 
 $text = '
